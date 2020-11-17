@@ -1,9 +1,9 @@
 # IBM_BEHINDTHECODE_2020
 
-- [Descricao Desafio 2](https://github.com/maratonadev-br/desafio-2-2020) | UNINASSAU
+- [Description](https://github.com/maratonadev-br/desafio-2-2020) | UNINASSAU (portuguese)
 
-# Este Repositório Contém:
+# This Repository Contains:
 
-- O código completo para a classificação proposta incluindo toda a etapa de pre processamento.
+- The complete code for the proposed classification including the entire pre-processing step.
 
-- A ideia essencial é criar um modelo baseado em machine learning, capaz de identificar as principais deficiências do aluno, permitindo a realização de uma mentoria estudantil personalizada.
+- The essential idea is to create a model based on machine learning, capable of identifying the main deficiencies of the student, allowing the realization of a personalized student mentoring.
